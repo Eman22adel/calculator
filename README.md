@@ -11,4 +11,4 @@ Here are the programmer operations that the calculator can perform:
 2. **DEC TO BIN**: This operation converts a decimal number to its equivalent binary representation. The user inputs a decimal number using the keypad, and the calculator displays the binary equivalent on the LCD.
 
 These features make this calculator a versatile tool for both standard and programmer-specific calculations.
-![calculater app in proteus]([https://github.com/ahmedsamir9924/bike_store/blob/main/bike%20store/database%20diagram.png](https://github.com/Eman22adel/calculator/blob/main/Screenshot%202024-05-11%20184720.png))
+![Calculater app in proteus](https://github.com/Eman22adel/calculator/blob/main/Screenshot%202024-05-11%20184720.png)
